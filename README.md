@@ -61,11 +61,23 @@ Download now and take back control of your meals!
 
 ## Screenshots
 
-![alt text](home_menu.png)
-![alt text](estimation_insuline.png)
-![alt text](liste_aliments.png)
-![alt text](add_food_menu.png)
-![alt text](insulines_menu.png)
-![alt text](historique_menu.png)
-![alt text](save_import_menu.png)
-![alt text](dark_mode_menu.png)
+<p align="center">
+  <img src="home_menu.png" width="42%" title="Mon logo">
+  <img src="estimation_insuline.png" width="42%" title="Mon logo">
+</p>
+
+
+<p align="center">
+  <img src="liste_aliments.png" width="42%" title="Mon logo">
+  <img src="add_food_menu.png" width="42%" title="Mon logo">
+</p>
+
+<p align="center">
+  <img src="insulines_menu.png" width="42%" title="Mon logo">
+  <img src="historique_menu.png" width="42%" title="Mon logo">
+</p>
+
+<p align="center">
+  <img src="save_import_menu.png" width="42%" title="Mon logo">
+  <img src="dark_mode_menu.png" width="42%" title="Mon logo">
+</p>
