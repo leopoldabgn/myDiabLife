@@ -1,11 +1,16 @@
 # myDiabLife
 Gestion du diabète, calcul des glucides, calories et doses d'insulines.
 
-## Play Store Link
+## Instagram account
+[mydiablifefr](https://www.instagram.com/mydiablifefr)
+
+## Download on the Play Store
 https://play.google.com/store/apps/details?id=com.care.mydiablife
 
 ## Description FR
-Vous êtes fatigué de calculer ? Vous voulez pouvoir gérer facilement vos repas ? Alors myDiabLife répond à vos besoins et va grandement vous faciliter la vie ! Fini de calculer le nombre de glucides et de calories dans votre assiette, on le fait pour vous ! Une estimation de votre dose d’insuline est également donnée pour chacun de vos repas.
+Vous êtes fatigué de calculer ? Vous voulez pouvoir gérer facilement vos repas ? Alors myDiabLife répond à vos besoins et va grandement vous faciliter la vie
+! Fini de calculer le nombre de glucides et de calories dans votre assiette, on le fait pour vous
+! Une estimation de votre dose d’insuline est également donnée pour chacun de vos repas.
 
 Voici un résumé des fonctionnalités dans cette application :
 
@@ -21,11 +26,12 @@ Vous pouvez voir de nombreuses statistiques sur vos repas. Tels que la moyenne d
 
 Sur le profil, vous pouvez préciser si vous êtes un homme ou une femme. Cela permet de savoir le nombre de calories qu’il vous est conseillé de manger sur une journée (par exemple 1800 à 2200 kcal par jour pour une femme). Les graphiques présents sur le menu HOME et dans l’onglet de chaque repas pourront ainsi se colorier en vert, jaune ou rouge selon le nombre de calories que vous avez mangé.
 Depuis l’onglet profil, vous pouvez également changer la langue et mettre l’application en anglais. Cependant, sachez que tous les aliments et boissons saisis dans l’application sont disponibles uniquement en français pour le moment.
-Enfin, depuis cette même page, vous pouvez : supprimer, sauvegarder ou importer vos données. Lorsque vous cliquez sur sauvegarder, un fichier JSON contenant toutes vos données est enregistré dans le dossier DOWNLOAD de votre appareil. Si vous cassez votre téléphone, il vous suffira de ré-importer ce fichier dans votre nouvel appareil pour récupérer toutes vos données. Vous pouvez également supprimer toutes vos données et revenir sur la page de bienvenue de l’application. 
+Enfin, depuis cette même page, vous pouvez : supprimer, sauvegarder ou importer vos données. Lorsque vous cliquez sur sauvegarder, un fichier JSON contenant toutes vos données est enregistré dans le dossier DOWNLOAD de votre appareil. Si vous cassez votre téléphone, il vous suffira de ré-importer ce fichier dans votre nouvel appareil pour récupérer toutes vos données. Vous pouvez également supprimer toutes vos données et revenir sur la page de bienvenue de l’application.
 
 Un mode sombre est également disponible. Vous pouvez l’activer depuis la page profil. Il est conseillé de l’utiliser lorsqu’il fait sombre pour éviter une fatigue visuelle.
 
-Téléchargez maintenant et reprenez le contrôle de vos repas !
+Téléchargez maintenant et reprenez le contrôle de vos repas
+!
 
 ## Description EN
 Are you tired of calculating? Want to be able to easily manage your meals? Then myDiabLife meets your needs and will greatly facilitate your life! No more calculating the number of carbohydrates and calories on your plate, we do it for you! An estimate of your insulin dose is also given for each of your meals.
@@ -51,3 +57,15 @@ Finally, from this same page, you can: delete, save or import your data. When yo
 A dark mode is also available. You can activate it from the profile page. It is advisable to use it when it is dark to avoid visual fatigue.
 
 Download now and take back control of your meals!
+
+
+## Screenshots
+
+![alt text](home_menu.png)
+![alt text](estimation_insuline.png)
+![alt text](liste_aliments.png)
+![alt text](add_food_menu.png)
+![alt text](insulines_menu.png)
+![alt text](historique_menu.png)
+![alt text](save_import_menu.png)
+![alt text](dark_mode_menu.png)
