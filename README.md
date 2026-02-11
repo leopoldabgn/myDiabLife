@@ -1,5 +1,5 @@
 # myDiabLife
-Gestion du diabète, calcul des glucides, calories et doses d'insulines.
+A mobile app to simplify diabetes management: automatic carb/calorie tracking and personalized insulin dose estimation.
 
 ## Instagram account
 [mydiablifefr](https://www.instagram.com/mydiablifefr)
@@ -30,8 +30,7 @@ Enfin, depuis cette même page, vous pouvez : supprimer, sauvegarder ou importer
 
 Un mode sombre est également disponible. Vous pouvez l’activer depuis la page profil. Il est conseillé de l’utiliser lorsqu’il fait sombre pour éviter une fatigue visuelle.
 
-Téléchargez maintenant et reprenez le contrôle de vos repas
-!
+Téléchargez maintenant et reprenez le contrôle de vos repas !
 
 ## Description EN
 Are you tired of calculating? Want to be able to easily manage your meals? Then myDiabLife meets your needs and will greatly facilitate your life! No more calculating the number of carbohydrates and calories on your plate, we do it for you! An estimate of your insulin dose is also given for each of your meals.
