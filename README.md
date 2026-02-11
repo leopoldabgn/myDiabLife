@@ -7,32 +7,7 @@ A mobile app to simplify diabetes management: automatic carb/calorie tracking an
 ## Download on the Play Store
 https://play.google.com/store/apps/details?id=com.care.mydiablife
 
-## Description FR
-Vous êtes fatigué de calculer ? Vous voulez pouvoir gérer facilement vos repas ? Alors myDiabLife répond à vos besoins et va grandement vous faciliter la vie
-! Fini de calculer le nombre de glucides et de calories dans votre assiette, on le fait pour vous
-! Une estimation de votre dose d’insuline est également donnée pour chacun de vos repas.
-
-Voici un résumé des fonctionnalités dans cette application :
-
-Vous allez pouvoir compter le nombre de glucides et de calories que vous mangez à chaque repas très facilement. En effet, une liste avec de nombreux aliments est disponible et vous pourrez ajouter également vos propres aliments si besoin (un menu “ajout rapide” est également disponible dans chaque onglet repas. Il suffit de slider de droite à gauche).. De plus, une estimation de la dose d’insuline à effectuer sera donnée (si vous avez noté la dose d’insuline correspondant à ce repas dans les paramètres).
-
-Si vous avez des doses d'insuline, l’application les retient pour vous. Il vous suffit de noter pour chaque moment de la journée le nombre d'unités d’insuline rapide pour un certain nombre de glucides (à vous de le préciser, pour 10g par exemple). Vous pouvez également noter votre insuline lente si vous en avez une ou votre basale si vous avez la pompe. Vos doses d’insuline sont indispensables si vous voulez profiter d’une estimation de votre dose d’insuline à chaque repas.
-
-Vous pouvez revoir vos dernières journées en slidant de gauche à droite sur le menu HOME.
-
-Un menu SETTINGS est disponible sur le menu HOME si vous slidez de droite à gauche. Il permet de changer la période et d’afficher par exemple les 30 derniers jours.
-
-Vous pouvez voir de nombreuses statistiques sur vos repas. Tels que la moyenne des glucides (calories, etc…) ou par exemple le top des aliments (ou des boissons) que vous mangez le plus sur une période donnée.
-
-Sur le profil, vous pouvez préciser si vous êtes un homme ou une femme. Cela permet de savoir le nombre de calories qu’il vous est conseillé de manger sur une journée (par exemple 1800 à 2200 kcal par jour pour une femme). Les graphiques présents sur le menu HOME et dans l’onglet de chaque repas pourront ainsi se colorier en vert, jaune ou rouge selon le nombre de calories que vous avez mangé.
-Depuis l’onglet profil, vous pouvez également changer la langue et mettre l’application en anglais. Cependant, sachez que tous les aliments et boissons saisis dans l’application sont disponibles uniquement en français pour le moment.
-Enfin, depuis cette même page, vous pouvez : supprimer, sauvegarder ou importer vos données. Lorsque vous cliquez sur sauvegarder, un fichier JSON contenant toutes vos données est enregistré dans le dossier DOWNLOAD de votre appareil. Si vous cassez votre téléphone, il vous suffira de ré-importer ce fichier dans votre nouvel appareil pour récupérer toutes vos données. Vous pouvez également supprimer toutes vos données et revenir sur la page de bienvenue de l’application.
-
-Un mode sombre est également disponible. Vous pouvez l’activer depuis la page profil. Il est conseillé de l’utiliser lorsqu’il fait sombre pour éviter une fatigue visuelle.
-
-Téléchargez maintenant et reprenez le contrôle de vos repas !
-
-## Description EN
+## Description
 Are you tired of calculating? Want to be able to easily manage your meals? Then myDiabLife meets your needs and will greatly facilitate your life! No more calculating the number of carbohydrates and calories on your plate, we do it for you! An estimate of your insulin dose is also given for each of your meals.
 
 Here is a summary of the features in this app:
@@ -57,6 +32,30 @@ A dark mode is also available. You can activate it from the profile page. It is 
 
 Download now and take back control of your meals!
 
+## Description FR
+Vous êtes fatigué de calculer ? Vous voulez pouvoir gérer facilement vos repas ? Alors myDiabLife répond à vos besoins et va grandement vous faciliter la vie
+! Fini de calculer le nombre de glucides et de calories dans votre assiette, on le fait pour vous
+! Une estimation de votre dose d’insuline est également donnée pour chacun de vos repas.
+
+Voici un résumé des fonctionnalités dans cette application :
+
+Vous allez pouvoir compter le nombre de glucides et de calories que vous mangez à chaque repas très facilement. En effet, une liste avec de nombreux aliments est disponible et vous pourrez ajouter également vos propres aliments si besoin (un menu “ajout rapide” est également disponible dans chaque onglet repas. Il suffit de slider de droite à gauche).. De plus, une estimation de la dose d’insuline à effectuer sera donnée (si vous avez noté la dose d’insuline correspondant à ce repas dans les paramètres).
+
+Si vous avez des doses d'insuline, l’application les retient pour vous. Il vous suffit de noter pour chaque moment de la journée le nombre d'unités d’insuline rapide pour un certain nombre de glucides (à vous de le préciser, pour 10g par exemple). Vous pouvez également noter votre insuline lente si vous en avez une ou votre basale si vous avez la pompe. Vos doses d’insuline sont indispensables si vous voulez profiter d’une estimation de votre dose d’insuline à chaque repas.
+
+Vous pouvez revoir vos dernières journées en slidant de gauche à droite sur le menu HOME.
+
+Un menu SETTINGS est disponible sur le menu HOME si vous slidez de droite à gauche. Il permet de changer la période et d’afficher par exemple les 30 derniers jours.
+
+Vous pouvez voir de nombreuses statistiques sur vos repas. Tels que la moyenne des glucides (calories, etc…) ou par exemple le top des aliments (ou des boissons) que vous mangez le plus sur une période donnée.
+
+Sur le profil, vous pouvez préciser si vous êtes un homme ou une femme. Cela permet de savoir le nombre de calories qu’il vous est conseillé de manger sur une journée (par exemple 1800 à 2200 kcal par jour pour une femme). Les graphiques présents sur le menu HOME et dans l’onglet de chaque repas pourront ainsi se colorier en vert, jaune ou rouge selon le nombre de calories que vous avez mangé.
+Depuis l’onglet profil, vous pouvez également changer la langue et mettre l’application en anglais. Cependant, sachez que tous les aliments et boissons saisis dans l’application sont disponibles uniquement en français pour le moment.
+Enfin, depuis cette même page, vous pouvez : supprimer, sauvegarder ou importer vos données. Lorsque vous cliquez sur sauvegarder, un fichier JSON contenant toutes vos données est enregistré dans le dossier DOWNLOAD de votre appareil. Si vous cassez votre téléphone, il vous suffira de ré-importer ce fichier dans votre nouvel appareil pour récupérer toutes vos données. Vous pouvez également supprimer toutes vos données et revenir sur la page de bienvenue de l’application.
+
+Un mode sombre est également disponible. Vous pouvez l’activer depuis la page profil. Il est conseillé de l’utiliser lorsqu’il fait sombre pour éviter une fatigue visuelle.
+
+Téléchargez maintenant et reprenez le contrôle de vos repas !
 
 ## Screenshots
 
